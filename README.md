@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/badge/Website-resizo.in-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.resizo.in)
 [![Platform](https://img.shields.io/badge/Platform-Web-emerald?style=for-the-badge)](https://www.resizo.in)
-[![Privacy](https://img.shields.io/badge/Privacy-100%25_Browser_Based-purple?style=for-the-badge)](https://www.resizo.in)
+[![Privacy](https://img.shields.io/badge/Privacy-100%25_Browser_Based-purple?style=for-the-badge)](https://www.resizo.in/privacy-policy/)
 
 **Resizo** is a collection of high-performance, browser-based image tools designed for speed, privacy, and simplicity. No uploads, no sign-ups, and no watermarks—ever.
 
